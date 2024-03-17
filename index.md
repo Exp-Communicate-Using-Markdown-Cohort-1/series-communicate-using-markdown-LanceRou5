@@ -5,3 +5,7 @@
 ```
 sudo bash servarr-install-script.sh
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
